@@ -41,6 +41,13 @@ function Footer() {
             <FaDev className="text-offWhite hover:text-accent" />
           </a>
         </li>
+        <li className="p-2 sm:mr-5">
+          <a href="https://www.newicon.com/opensauced"
+             target="_blank" rel="noreferrer"
+             aria-label="Visit Open Sauced GitHub Organisation">
+            <NewIcon className="text-offWhite hover:text-accent" />
+          </a>
+        </li>
       </ul>
     </Container>
   );
